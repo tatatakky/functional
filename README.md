@@ -1,0 +1,10 @@
+## functional
+### fpinscala
+- datastructures
+- errorhandling
+- laziness
+- state
+- parallel
+- monoid
+- monad
+- applicative
